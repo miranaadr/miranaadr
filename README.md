@@ -2,7 +2,7 @@
 # 🎧🖥 Welcome to my gitHub Profile 
 - 🌱 I’m currently learning ...
 
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="photomirana.jpg" width="400" height="300">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="photomirana.jpg" width="500" height="600">
 </picture>
 
 <!--
