@@ -2,6 +2,9 @@
 # 🎧🖥 Welcome to my gitHub Profile 
 - 🌱 I’m currently learning ...
 
+![Cheeeeese]
+(https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.123rf.com%2Fphoto_77989070_hacker-avec-ordinateur-avatar-caract%25C3%25A8re-vector-illustration-design.html&psig=AOvVaw2Ul0OP4sHWwIy5vMYgYBfw&ust=1687009925021000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCgma-GyP8CFQAAAAAdAAAAABAL)
+
 <!--
 **miranaadr/miranaadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
